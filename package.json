@@ -1,0 +1,26 @@
+{
+  "name": "linear-interpolate-basic",
+  "version": "1.0.0",
+  "description": "Simple Linear Interpolation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markbailly72/linear-interpolate-basic.git"
+  },
+  "keywords": [
+    "interpolate",
+    "math"
+  ],
+  "author": "Mark Bailly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markbailly72/linear-interpolate-basic/issues"
+  },
+  "homepage": "https://github.com/markbailly72/linear-interpolate-basic#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
